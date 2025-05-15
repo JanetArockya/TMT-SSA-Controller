@@ -1,0 +1,6 @@
+wxPython
+vispy
+pyserial
+PyDispatcher
+numpy
+
