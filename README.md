@@ -19,22 +19,6 @@ Features
 •	Test Data Compatible: Sample datasets like NoiseTest.csv, ROTTest.csv, and Test.csv included for offline testing.
 •	User Interface: GUI built with wxPython, designed in wxFormBuilder.
 
-File Structure
-
-TMT_SSA_Controller/
-|
-├── TMT_SSA_Controller.py         # Main GUI logic
-├── TMT_SSA_Controller_GUI.py     # Auto-generated GUI layout (from wxFormBuilder)
-├── SerialObject.py               # Serial communication thread handler
-├── wx_VispyPlotCanvas.py         # Real-time plotting canvas using Vispy
-├── TMT_SSA_Controller.fbp        # wxFormBuilder project file
-|
-├── NoiseTest.csv                 # Sample test data
-├── ROTTest.csv                   # Sample test data
-├── Test.csv                      # Sample test data
-|
-├── README.md                     # Project documentation (this file)
-└── requirements.txt              # Python dependencies
 
 Getting Started
 Prerequisites
